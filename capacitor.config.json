@@ -1,0 +1,6 @@
+{
+  "appId": "com.agriseller.app",
+  "appName": "AgriSellerPro",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
